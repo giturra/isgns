@@ -1,4 +1,11 @@
+# WARNING!!!
+
+This is still unfinished, I am currently working on it.
+
+
 # Incremental SkipGram with Negative Sampling
+
+Unofficial code source for [(Kaji and Kobayashi, 2017)](http://aclweb.org/anthology/D17-1037)
 
 Pytorch implementation of incremental skip-gram model with negative sampling [(Kaji and Kobayashi, 2017)](http://aclweb.org/anthology/D17-1037).
 
